@@ -31,6 +31,10 @@ Key Findings
 3. Lagos recorded the highest regional revenue at ₦909,000.
 4. Osogbo recorded the lowest regional revenue at ₦380,000.
 
+## Dashboard Preview
+
+![Business Sales Dashboard](dashboard-preview.png)
+
 Business Recommendations
 
 - Review Rice inventory and customer demand to maintain product availability.
